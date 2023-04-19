@@ -25,6 +25,8 @@ BioSE: http://snap.stanford.edu/biodata/
 
 ./predictor.py: dot product operation
 
+./processDrugBank: process the .xml of DrugBank
+
 ./utils.py: contain some utility functions
 
 ./vocab.py: convert a list of nodes ids to vocab ids
