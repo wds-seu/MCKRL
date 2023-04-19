@@ -15,6 +15,7 @@ UniPortKB: https://ftp.uniprot.org/pub/databases/uniprot/previous_releases/relea
 BioSE: http://snap.stanford.edu/biodata/
 
 ## Main File
+./attention.py: implementation of attention mechanism
 ./early_stopping.py: early stopping to prevent overfitting
 
 ./main.py: the main execution function, including the training process
