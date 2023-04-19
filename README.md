@@ -40,7 +40,7 @@ BioSE: http://snap.stanford.edu/biodata/
 ## Related Work
 GCN: Semi-aupervised Classification with Graph Convolutional Networks [paper](https://arxiv.org/abs/1609.02907) [code](https://github.com/tkipf/pygcn)
 
-GAT: Graph Attention Networks[paper](https://arxiv.org/abs/1710.10903) [code](https://github.com/Diego999/pyGAT/)
+GAT: Graph Attention Networks [paper](https://arxiv.org/abs/1710.10903) [code](https://github.com/Diego999/pyGAT/)
 
 Decagon: Modeling polypharmacy side effects with graph convolutional networks [paper](https://academic.oup.com/bioinformatics/article-abstract/34/13/i457/5045770) [code](https://github.com/marinkaz/decagon)
 
