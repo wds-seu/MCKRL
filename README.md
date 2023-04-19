@@ -38,7 +38,11 @@ BioSE: http://snap.stanford.edu/biodata/
 `python main.py`
 
 ## Related Work
-GCN: paper code{https://github.com/tkipf/pygcn}
-GAT: code{https://github.com/Diego999/pyGAT/}
-Decagon: code{https://github.com/marinkaz/decagon}
+GCN: paper [code](https://github.com/tkipf/pygcn)
+
+GAT: [code](https://github.com/Diego999/pyGAT/)
+
+Decagon: [code](https://github.com/marinkaz/decagon)
+
+
 
