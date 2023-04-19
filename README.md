@@ -44,5 +44,7 @@ GAT: [code](https://github.com/Diego999/pyGAT/)
 
 Decagon: [code](https://github.com/marinkaz/decagon)
 
+HetGNN: 
+
 
 
