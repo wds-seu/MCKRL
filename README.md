@@ -3,7 +3,7 @@
 ## Requirements
 conda env: ./conda_environment.yaml
 
-pip package: ./pip_packages.txt
+pip package: ./requirements.txt
 
 ## Datasets
 Due to the large size of the dataset, only a list of links is provided for download. The required links are as follows:
