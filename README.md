@@ -15,6 +15,8 @@ UniPortKB: https://ftp.uniprot.org/pub/databases/uniprot/previous_releases/relea
 BioSE: http://snap.stanford.edu/biodata/
 
 ## Main File
+./dataset: contain processed datasets
+
 ./attention.py: implementation of attention mechanism
 ./early_stopping.py: early stopping to prevent overfitting
 
